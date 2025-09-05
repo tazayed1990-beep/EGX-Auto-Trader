@@ -1,0 +1,5 @@
+{
+  "name": "EGX Auto-Trader",
+  "description": "A React dashboard that visualizes near-real-time data from the EGX, simulated trading decisions, and portfolio performance. It subscribes to a Firebase Firestore backend for live updates.",
+  "requestFramePermissions": []
+}
